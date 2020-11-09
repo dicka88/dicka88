@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <summary>
   
 [![Dicka Github Stats](https://github-readme-stats.vercel.app/api?username=dicka88)](https://github.com/dicka88)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dicka88&theme=buefy)
 
 
