@@ -1,7 +1,7 @@
 ### Hi there 👋 i am Dicka
 ![Profile views](https://gpvc.arturio.dev/dicka88)
 
-<img align="right" src="https://i.ibb.co/xgRKxxF/bluefox.gif" />
+<img align="right" height="400px" src="https://i.ibb.co/xgRKxxF/bluefox.gif" />
 
 Here are some ideas to get you started:
 
