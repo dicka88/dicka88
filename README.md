@@ -1,7 +1,7 @@
 ### Hi there 👋 i am Dicka
 ![Profile views](https://gpvc.arturio.dev/dicka88)
 
-<img align="right" src="https://raw.githubusercontent.com/dicka88/dicka88/master/52-mab.webp" />
+<img align="right" src="https://i.ibb.co/xgRKxxF/bluefox.gif" />
 
 Here are some ideas to get you started:
 
