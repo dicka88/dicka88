@@ -1,11 +1,11 @@
-### Hi there 👋 i am Dicka
+### Hi there 👋 I am Dicka
 ![Profile views](https://gpvc.arturio.dev/dicka88)
 
 <img align="right" height="400px" src="https://i.ibb.co/xgRKxxF/bluefox.gif" />
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Nodejs
+- 🌱 I like to design & slice it into code
 - 👯 I’m looking to collaborate on Open Source Project
 - 🤔 I’m looking for help with Google
 - 💬 Ask me about my life
