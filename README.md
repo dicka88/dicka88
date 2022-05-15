@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I like to design & slice it into code
+- 🌱 I like to design and slice into code
 - 👯 I’m looking to collaborate on Open Source Project
 - 🤔 I’m looking for help with Google
 - 💬 Ask me about my life
