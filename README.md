@@ -1,8 +1,6 @@
 ### Hi there 👋 I am Dicka
 ![Profile views](https://gpvc.arturio.dev/dicka88)
 
-<img align="right" height="400px" src="https://i.ibb.co/xgRKxxF/bluefox.gif" />
-
 Here are some ideas to get you started:
 
 - 🌱 I like to design and slice into code
@@ -11,7 +9,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about my life
 - 📫 How to reach me: [linkedin](https://linkedin.com/in/dickaismaji)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I like watch anime and read manga/webtoon  
+- ⚡ Fun fact: I like to watch anime and read manga/webtoon
+
+<img align="right" height="300px" src="https://i.ibb.co/xgRKxxF/bluefox.gif" />
 
 **Languange and Tools:**
 <br>
@@ -34,6 +34,5 @@ Here are some ideas to get you started:
   
 [![Dicka Github Stats](https://github-readme-stats.vercel.app/api?username=dicka88)](https://github.com/dicka88)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dicka88&theme=buefy&layout=compact)
-
 
 </summary>
